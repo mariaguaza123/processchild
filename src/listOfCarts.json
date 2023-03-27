@@ -1,0 +1,31 @@
+[
+	{
+		"id": "d35d43b2-2454-430f-9f96-f94832bcb0af",
+		"timeStamp": "2022-11-10T06:47:38.389Z",
+		"products": {
+			"id": 1,
+			"timeStamp": "",
+			"nameProduct": "Blusa beige",
+			"description": "",
+			"code": "",
+			"photoUrl": "",
+			"price": "20 USD",
+			"stock": ""
+		}
+	},
+
+	{
+		"id": "d93c44c9-01b1-495b-9d6d-c404c262a1ec",
+		"timeStamp": "2022-11-10T06:47:45.510Z",
+		"products": {
+			"id": 3,
+			"timeStamp": "",
+			"nameProduct": "Blusa verde",
+			"description": "",
+			"code": "",
+			"photoUrl": "",
+			"price": "20 USD",
+			"stock": ""
+		}
+	}
+]

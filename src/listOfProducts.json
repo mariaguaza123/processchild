@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"timeStamp": "",
+		"nameProduct": "Blusa beige",
+		"description": "",
+		"code": "",
+		"photoUrl": "",
+		"price": "20 USD",
+		"stock": ""
+	},
+	{
+		"id": 3,
+		"timeStamp": "",
+		"nameProduct": "Blusa verde",
+		"description": "",
+		"code": "",
+		"photoUrl": "",
+		"price": "20 USD",
+		"stock": ""
+	},
+	{
+		"id": "0210e3d4-7d19-4947-bb3d-f56cf3c63624",
+		"timeStamp": "Holaa",
+		"nameProduct": "primera",
+		"description": "app",
+		"code": 8,
+		"photoUrl": "url",
+		"price": "5000",
+		"stock": "956"
+	},
+	{
+		"id": "fffd40e8-fed1-4e92-a77e-004c22e4bd40",
+		"timeStamp": "2022-11-10T03:56:24.523Z",
+		"nameProduct": "Vestido flores",
+		"description": "Lindo vestido de flores rosas",
+		"code": "0987",
+		"photoUrl": "vestido.jpg",
+		"price": "90 USD",
+		"stock": "5"
+	},
+	{
+		"id": "b891d703-767b-4101-8bc4-13e712d81e30",
+		"timeStamp": "2022-11-10T04:43:15.117Z",
+		"nameProduct": "Vestido largo",
+		"description": "Vestido largo color rojo",
+		"code": "0988",
+		"photoUrl": "vestidoRojo.jpg",
+		"price": "60 USD",
+		"stock": "8"
+	}
+]
